@@ -1,0 +1,8 @@
+{
+  "name": "RigWeb",
+  "version": "0.1.0",
+  "description": "Local ESP8266 web controls for RIG lighting.",
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "dependencies": { "RigLighting": "*" }
+}
