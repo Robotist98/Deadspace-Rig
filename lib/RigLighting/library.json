@@ -1,0 +1,9 @@
+{
+  "name": "RigLighting",
+  "version": "0.1.0",
+  "description": "Nonblocking Dead Space RIG-inspired LED animation.",
+  "frameworks": "arduino",
+  "dependencies": {
+    "fastled/FastLED": "3.6.0"
+  }
+}

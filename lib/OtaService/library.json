@@ -1,0 +1,7 @@
+{
+  "name": "OtaService",
+  "version": "0.1.0",
+  "description": "ESP8266 Wi-Fi connection management and password-protected OTA updates.",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
